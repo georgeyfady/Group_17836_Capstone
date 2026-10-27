@@ -1,0 +1,12 @@
+Python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+numpy: 2.4.4
+pandas: 2.2.3
+matplotlib: 3.10.0
+yfinance: 0.2.59
+seaborn: 0.13.2
+cvxpy: 1.8.2
+scikit-learn: 1.6.1
+hmmlearn: 0.3.3
+
+Built-in modules used:
+importlib, itertools, os, time, warnings, random

@@ -1,0 +1,60 @@
+Ticker,Description,Region,Inception_Date
+^AXVI,S&P/ASX 200 VIX Index,AU,2008-01-02
+STW.AX,State Street SPDR S&P/ASX 200 ETF,AU,2008-01-02
+IOZ.AX,iShares Core S&P/ASX 200 ETF,AU,2010-12-07
+BEAR.AX,Betashares Australian Equities Bear Fund,AU,2012-07-06
+QFN.AX,Betashares Australian Financials Sector ETF,AU,2010-12-10
+OZF.AX,State Street SPDR S&P/ASX 200 Financials ex A-REIT ETF,AU,2011-04-12
+QRE.AX,Betashares Australian Resources Sector ETF,AU,2010-12-10
+VAP.AX,Vanguard Australian Property Securities Index ETF,AU,2010-10-11
+GOLD.AX,Global X Physical Gold,AU,2008-01-02
+OOO.AX,Betashares Crude Oil Index ETF - Currency Hedged,AU,2011-11-11
+USD.AX,Betashares U.S. Dollar ETF,AU,2011-01-31
+IAF.AX,iShares Core Composite Bond ETF,AU,2012-03-14
+CBA.AX,Commonwealth Bank of Australia,AU,1991-09-30
+BHP.AX,BHP Group,AU,1988-01-29
+CSL.AX,CSL,AU,1994-05-31
+MQG.AX,Macquarie Group,AU,1996-07-31
+WBC.AX,Westpac Banking Corporation,AU,1988-01-29
+NAB.AX,National Australia Bank,AU,1988-01-29
+ANZ.AX,ANZ Group Holdings,AU,1988-01-29
+WDS.AX,Woodside Energy Group,AU,1988-01-29
+RIO.AX,Rio Tinto,AU,1988-01-29
+FMG.AX,Fortescue,AU,1988-01-29
+XRO.AX,Xero,AU,2012-11-08
+WTC.AX,WiseTech Global,AU,2016-04-11
+VIXY,ProShares VIX Short-Term Futures ETF,US,2011-01-04
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,US,2011-10-04
+SVXY,ProShares Short VIX Short-Term Futures ETF,US,2011-10-04
+SPY,SPDR S&P 500 ETF Trust,US,1993-01-29
+QQQ,Invesco QQQ Trust,US,1999-03-10
+EWA,iShares MSCI Australia ETF,US,1996-03-18
+EEM,iShares MSCI Emerging Markets ETF,US,2003-04-14
+HYG,iShares iBoxx High Yield Corporate Bond ETF,US,2007-04-11
+LQD,iShares iBoxx Investment Grade Corporate Bond ETF,US,2002-07-30
+TLT,iShares 20+ Year Treasury Bond ETF,US,2002-07-30
+GLD,SPDR Gold Shares,US,2004-11-18
+USO,United States Oil Fund,US,2006-04-10
+OZR.AX,State Street SPDR S&P/ASX 200 Resources Fund,AU,2011-04-12
+IXJ.AX,iShares Global Healthcare ETF,AU,2009-03-11
+IXC.AX,iShares Global Energy ETF - requested ASX ticker,AU,2019-07-05
+GNR,SPDR S&P Global Natural Resources ETF,US,2010-09-14
+VAF.AX,Vanguard Australian Fixed Interest Index ETF,AU,2012-10-29
+BBOZ.AX,Betashares Australian Equities Strong Bear Fund,AU,2015-04-17
+VGB.AX,Vanguard Australian Government Bond Index ETF,AU,2012-04-24
+CRED.AX,Betashares Australian Investment Grade Corporate Bond ETF,AU,2018-05-31
+ILB.AX,iShares Government Inflation ETF,AU,2012-03-12
+VAS.AX,Vanguard Australian Shares Index ETF,AU,2009-05-01
+SLF.AX,State Street SPDR S&P/ASX 200 Listed Property Fund,AU,2008-01-02
+MVR.AX,VanEck Australian Resources ETF,AU,2013-10-14
+DRUG.AX,Betashares Global Healthcare ETF - Currency Hedged,AU,2016-08-04
+TECH.AX,Global X Morningstar Global Technology ETF,AU,2017-04-07
+ROBO.AX,Global X ROBO Global Robotics and Automation ETF,AU,2017-09-13
+MVA.AX,VanEck Australian Property ETF,AU,2013-10-14
+IFRA.AX,VanEck FTSE Global Infrastructure ETF - Hedged,AU,2016-04-29
+MICH.AX,Magellan Infrastructure Fund - Currency Hedged,AU,2016-07-18
+GOVT.AX,Betashares Australian Government Bond ETF,AU,2012-07-27
+AAA.AX,Betashares Australian High Interest Cash ETF,AU,2012-03-06
+BILL.AX,iShares Core Cash ETF,AU,2017-06-02
+BBUS.AX,Betashares U.S. Equities Strong Bear Fund,AU,2015-08-24
+VIXM,ProShares VIX Mid-Term Futures ETF,US,2011-01-04
